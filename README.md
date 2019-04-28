@@ -78,13 +78,27 @@ $ pytest
 ### Sessão 1
 
 The good :smiley::
+- Apanhar junto
+- TDD é top
+- Local tranquilo
+- Balinha daora 
 
 The Bad :worried::
+- pouco tempo por sessao
+
 
 ### Sessão 2
 
 The good :smiley::
+- Guide daora
+- Problema adequado
+- Balinha top
+- Social antes do pair programming
+- mestre mais ou menos
+- ar condicionado
+- evento 11/10
 
 The Bad :worried::
+- pouco tempo por sessao
 
 [1]: https://github.com/sandromancuso/social_networking_kata
